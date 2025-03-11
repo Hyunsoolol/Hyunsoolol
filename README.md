@@ -3,7 +3,7 @@
 I'm a **Data Analyst** with expertise in **management and financial data analysis**.  
 With **6 years of experience**, I specialize in **statistical modeling, machine learning, and data visualization**.  
 
-🔹 **Currently working at:** NCSoft (since April 2022)  
+🔹 **Currently working at:** NCSOFT (since April 2022)  
 🔹 **Skills:** Python, R, SQL, Tableau, Power BI  
 🔹 **Interests:** Marketing Mix Modeling (MMM), Time Series Forecasting, Bayesian Statistics  
 
