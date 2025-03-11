@@ -1,5 +1,5 @@
 ## ✨ ABOUT ME ✨
-👩🏻‍💻 HR Anayltics & People Analytics
+👩🏻‍💻 Data Analys & Data Scientist
 
 <br/>
 
