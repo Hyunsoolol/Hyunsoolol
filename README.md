@@ -5,7 +5,7 @@ With **6 years of experience**, I specialize in **statistical modeling, machine 
 
 🔹 **Currently working at:** NCSOFT (since April 2022)  
 🔹 **Skills:** Python, R, SQL, Tableau, Power BI  
-🔹 **Interests:** Marketing Mix Modeling (MMM), Time Series Forecasting, Bayesian Statistics  
+🔹 **Interests**: Midxture Model, Latent Class Model, Marketing Mix Modeling (MMM), Time Series Forecasting, Bayesian Statistics  
 
 👩🏻‍💻 Data Analys & Data Scientist
 
