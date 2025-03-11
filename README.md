@@ -10,6 +10,7 @@ With **6 years of experience**, I specialize in **statistical modeling, machine 
 👩🏻‍💻 Data Analys & Data Scientist
 
 <br/>
+
 ## 💪 Skills
 
 ### Platforms & Languages
