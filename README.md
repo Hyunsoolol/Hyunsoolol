@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=3DDC84&height=300&section=header&text=Hyunsoo Shin&fontSize=70" />
-</p>
-
-<br/>
-
-
-
 ## ✨ ABOUT ME ✨
 👩🏻‍💻 HR Anayltics & People Analytics
 
